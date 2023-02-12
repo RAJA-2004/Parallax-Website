@@ -11,7 +11,6 @@ Technology Stack : <br>
 <br>
 HTML: used to structure the website and define the various sections and elements.<br>
 CSS: used to style and layout the website, as well as create animations and transitions.<br>
-<br>
 To run the website, simply clone or download the repository and open the index.html file in your web browser.<br>
 <br>
 Note : <br>
